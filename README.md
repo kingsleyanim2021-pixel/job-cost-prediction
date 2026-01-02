@@ -56,5 +56,5 @@ The dataset is synthetic but designed to reflect real-world woodworking jobs. Fe
 ## Usage
 1. Clone the repository:
 ```bash
-git clone https://github.com/<yourusername>/job-cost-prediction.git
+git clone https://github.com/kingsleyanim2021-pixel/job-cost-prediction.git
 
